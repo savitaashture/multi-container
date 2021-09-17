@@ -1,1 +1,1 @@
-# multi-container
+# pipeline-template-for-nightly
